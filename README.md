@@ -1,11 +1,11 @@
-# %%TITULO%% 🐍
+# Generador de Códigos de Cupón 🐍
 
 [![Python](https://img.shields.io/badge/Python-100%25-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Deploy](https://github.com/configurowebmax/python-generador-codigos-cupon/actions/workflows/pages.yml/badge.svg)](https://github.com/configurowebmax/python-generador-codigos-cupon/actions)
 [![Live Demo](https://img.shields.io/badge/Demo-GitHub%20Pages-success?logo=github&logoColor=white)](https://configurowebmax.github.io/python-generador-codigos-cupon/)
 [![License](https://img.shields.io/badge/Licencia-MIT-blue)](LICENSE)
 
-> %%DESCRIPCION%%
+> Usa random para generar N códigos de la longitud que elijas.
 
 ## 🚀 Probar la aplicación
 
